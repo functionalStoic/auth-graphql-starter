@@ -25,7 +25,7 @@
     "express": "^4.14.0",
     "express-graphql": "^0.8.0",
     "express-session": "^1.15.0",
-    "flow-bin": "^0.100.0",
+    "flow-bin": "^0.101.0",
     "graphql": "^0.13.0",
     "graphql-tag": "^2.0.0",
     "html-webpack-plugin": "^2.26.0",
